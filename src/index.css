@@ -1,0 +1,338 @@
+body {
+  
+font-family: "Comic Sans Ms",sans-serif;
+
+}
+.landing-page{
+    background: white url("C:\Users\siris\Downloads\pexels-cottonbro-studio-6153354.jpg") no-repeat scroll center;
+    height: 70vh;
+    color: white;
+    background-size: cover;
+}
+
+.landing-page1{
+    background: white url("C:\Users\siris\Downloads\pexels-tara-winstead-8386365.jpg") no-repeat scroll center;
+    width : 90%;
+    background-size: cover;
+    height : 400px;
+    color : white;
+   margin-left: 20px;
+   
+    
+}
+.landing-page2{
+    background: white url("D:\new downloads\istockphoto-1456545135-1024x1024.jpg") no-repeat scroll center;
+    width : 90%;
+    background-size: cover;
+    height : 400px;
+    color : white;
+    ;
+}
+.landing-page5{
+  background: white url("D:\new downloads\rs=w_2320 (1).webp") no-repeat scroll center;
+  width : 40%;
+  background-size: cover;
+  height : 400px;
+  color : white;
+  ;
+}
+.landing-page6{
+  background: white url("D:\new downloads\rs=w_2320.webp") no-repeat scroll center;
+  width : 40%;
+  background-size: cover;
+  height : 400px;
+  color : white;
+  ;
+}
+.landing-page7{
+  background: white url("D:\new downloads\new2.webp") no-repeat scroll center;
+  width : 40%;
+  background-size: cover;
+  height : 400px;
+  color : white;
+  ;
+}
+.landing-page8{
+  background: white url("D:\new downloads\new3.webp") no-repeat scroll center;
+  width : 40%;
+  background-size: cover;
+  height : 400px;
+  color : white;
+  ;
+}
+.landing-page9{
+  background: white url("D:\new downloads\new4.webp") no-repeat scroll center;
+  width : 90%;
+  background-size: cover;
+  height : 400px;
+  color : white;
+ margin-left: 20px;
+ 
+  
+}
+.landing-page10{
+  background: white url("D:\new downloads\new5.webp") no-repeat scroll center;
+  width : 90%;
+  background-size: cover;
+  height : 400px;
+  color : white;
+ margin-left: 20px;
+ 
+  
+}
+.landing-page11{
+  background: white url("D:\new downloads\new6.webp") no-repeat scroll center;
+  width : 90%;
+  background-size: cover;
+  height : 400px;
+  color : white;
+ margin-left: 20px;
+ 
+  
+}
+.landing-page3{
+    background: white url("D:\new downloads\th.jpg") no-repeat scroll center;
+    width : 90vh;
+    background-size: cover;
+    height : 400px;
+    color : white;
+    margin-left: 40px
+    ;
+}
+.marg{
+    margin-left: 100px
+
+}
+
+
+.Wrapper{
+    background-color: rgba(0,0,0,0.5);
+    height: 100%;
+}
+.table tbody tr td{
+    font-weight: bold;
+}
+.bg-teal , .btn-teal{
+    background-color: teal !important;
+}
+
+.text-teal{
+    color: teal !important;
+}
+.head{
+    font-size: 60px;
+    color: #1b8989;
+    text-align: center;
+    font-style: normal;
+    font-weight: 300px;
+    padding-top: 150px;
+}
+.head1{
+    font-size: 25px;
+    color: black;
+    text-align: center;
+    font-style: normal;
+}
+
+.para{
+    font-size: 20px;
+    color: black;
+    font-style: normal;
+    margin-left: 160px;
+}
+.paras{
+    font-size: 18px;
+    font-style: normal;
+    color: dimgrey;
+}
+.con{
+    color: black;
+    font-family: normal;
+    font-size: 20px;
+    
+}
+.border{
+    border-width: 5px;
+   border-color: black;
+}
+
+
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.follow-us-section {
+  background-color: white;
+}
+.follow-us-section-heading {
+  text-align: center;
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.follow-us-icon-container {
+  background-color: #faf7e8;
+  width: 80px;
+  height: 80px;
+  border-radius: 40px;
+  margin: 15px;
+  padding-top: 22px;
+  padding-bottom: 14px;
+  padding-right: 16px;
+  padding-left: 22px;
+}
+.icon {
+  color: #d0b200;
+  font-size: 35px;
+}
+.container{
+    border-radius: 10px;
+}
+
+.siri {
+    background-color: white;
+}
+
+h1 {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 700;
+    color: #183B56;
+}
+
+
+.btn {
+    height: 45px;
+    width: 110px;
+    border-width: 2px;
+    border-color: #ff9f00;
+    background-color: white;
+    color: #ff9f00;
+    text-align: center;
+    border-radius: 10px;
+}
+.btn2 {
+  height: 45px;
+  width: 140px;
+  border-width: 2px;
+  border-color: #ff9f00;
+  background-color: white;
+  color: #ff9f00;
+  text-align: center;
+  background-color: whitesmoke;
+  
+}
+
+
+
+.form-heading {
+    font-family: "Roboto";
+    font-size: 36px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+  }
+  
+  .error-message {
+    color: #dc3545;
+    font-family: "Roboto";
+    font-size: 14px;
+  }
+  
+  .gender-field-heading {
+    color: #212529;
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  .color{
+    color: white;
+    font-style: normal;
+    font-size: 20px;
+  }
+  .color1{
+    font-size: 60px;
+    color: white;
+    font-style: normal;
+  }
+  .color2{
+    font-size: 40px;
+    color: black;
+    font-style: italic;
+    text-align: center;
+    
+  }
+  .color3{
+    font-size: 40px;
+    color: black;
+    font-style: normal;
+    text-align: center;
+
+  }
+  .color4{
+    font-size: 50px;
+    color: black;
+    font-style: normal;
+    text-align: center;
+
+  }
+  .param{
+    font-size: 20px;
+    font-style: normal;
+  }
+  .param2{
+    font-size: 20px;
+    font-style: normal;
+    color: gray;
+  }
+  .design{
+    width: 100%;
+    height: 40%;
+    background-size: cover;
+    border-radius: 2px;
+  }
+  .fsize{
+    font-size: 60px;
+    padding: 50px;
+    
+  }
+  .mainh{
+    font-size: 30px;
+   color: white;
+    font-weight: bold;
+  }
+  .lead{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+  }
+  .marl{
+    margin-left: 10px;
+  }
+  .body{
+    background-color: gray;
+    height: 500px;
+    width: 100%;
+    text-align: center;
+  }
+  .container2{
+    width: 100%;
+    
+    background-size: cover;
+  }
+  .bodyhead{
+    font-size: 60px;
+    font-weight: 600px;
+    color: white;
+   
+  }
+  .bodypara{
+    color: white;
+    font-size: 20px;
+    margin-top: 15px;
+  }
+  .bodypara2{
+    margin-top: 50px;
+    color: white;
+  }
+  .ss{
+    color: #212529;
+  }
