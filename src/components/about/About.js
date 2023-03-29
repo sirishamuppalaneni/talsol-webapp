@@ -43,11 +43,14 @@ class About extends React.Component{
                         </div>
                     </div>
                 </div>
+                
                 <hr></hr>
                 <div>
 
                     <h1 className='fsize'>Our mission is to disrupt the outdated and conventional IT market with new imaginative solutions</h1>
                 </div>
+                
+                
 
             </React.Fragment>
         );

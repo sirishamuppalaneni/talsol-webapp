@@ -121,6 +121,19 @@ render () {
                     </div>
                </div>
                <hr></hr>
+               <hr></hr>
+                <div className=' d-flex flex-column justify-content-center'>
+                    <div>
+                <h1 className='color2'>ADDRESS</h1>
+                <p className='para9 pl-5'>H.NO:9/HIG-A&10/HIG, Vasista Bhavan, 4th Floor,</p>
+                {/* <p className='para9 pl-5'>Vasista Bhavan, 4th Floor, </p> */}
+                <p className='para9 pl-5'>opp. lane to DLF Cyber City,APHB Colony, Indira Nagar,</p>
+                {/* <p className='para9 pl-5'>APHB Colony, Indira Nagar,</p> */}
+                <p className='para9 pl-5'>Gachibowli, Hyderabad,Telangana 500032</p>
+                {/* <p className='para9 pl-5'>Telangana 500032</p> */}
+                    </div>
+                
+                </div>
                <html>
   <head>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous"/>
@@ -137,7 +150,7 @@ render () {
             <h1 class="follow-us-section-heading">Follow Us</h1>
           </div>
           <div class="col-12">
-            <div class="d-flex flex-row justify-content-center">
+            <div class="d-flex flex-row justify-content-center"> 
               <div class="follow-us-icon-container">
                 <i class="fab fa-twitter icon"></i>
               </div>
