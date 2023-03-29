@@ -126,11 +126,11 @@ render () {
                     <div>
                 <h1 className='color2'>ADDRESS</h1>
                 <p className='para9 pl-5'>H.NO:9/HIG-A&10/HIG, Vasista Bhavan, 4th Floor,</p>
-                {/* <p className='para9 pl-5'>Vasista Bhavan, 4th Floor, </p> */}
+              
                 <p className='para9 pl-5'>opp. lane to DLF Cyber City,APHB Colony, Indira Nagar,</p>
-                {/* <p className='para9 pl-5'>APHB Colony, Indira Nagar,</p> */}
+                
                 <p className='para9 pl-5'>Gachibowli, Hyderabad,Telangana 500032</p>
-                {/* <p className='para9 pl-5'>Telangana 500032</p> */}
+                
                     </div>
                 
                 </div>
